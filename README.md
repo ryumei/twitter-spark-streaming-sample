@@ -44,3 +44,7 @@ $ spark-submit --class local.riverside.TwitterStreaming --master local[2] ./targ
 
 * http://d.hatena.ne.jp/Kazuhira/20150819/1439997051
 * http://www.intellilink.co.jp/article/column/bigdata-kk01.html
+
+# Run on Bluemix
+
+https://console.ng.bluemix.net/docs/services/AnalyticsforApacheSpark/index-gentopic3.html#using_spark-submit
