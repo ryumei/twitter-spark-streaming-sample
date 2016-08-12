@@ -1,0 +1,4 @@
+-Dhttp.proxy=
+-Dhttp.port=
+-Dhttps.proxy=
+-Dhttps.port=
