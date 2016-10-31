@@ -11,7 +11,9 @@
 
 ## Twitter API Key
 
-Edit `src/main/resources/twitter4j.properties`
+To set Cusumer Key, Consumer Secret, Access Token, and Access Token Secret,
+edit `src/main/resources/twitter4j.properties` .
+
 
 ## Proxy
 
